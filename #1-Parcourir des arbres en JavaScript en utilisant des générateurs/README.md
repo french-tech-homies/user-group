@@ -11,3 +11,7 @@ Joignez-vous à la conversation si vous êtes intéressés par:
 - Un cas d'usage concret en parcourant des arbres à l'aide des générateurs
 
 Yann Renaudin - @YannRenaudin
+
+[Slides PPTX](.//TechHomies%20-%20Generators.pptx)
+
+[Slides PDF](.//TechHomies%20-%20Generators.pdf)
