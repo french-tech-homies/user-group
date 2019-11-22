@@ -11,4 +11,5 @@ Hack the planet !
 Alexandre Cheron - @axcheron
 
 [Slides PPTX](./Challenges%2C%20Wargames%20%26%20CTFs%20-%20L'apprentissage%20par%20la%20pratique.pptx)
+
 [Slides PDF](./Challenges%2C%20Wargames%20%26%20CTFs%20-%20L'apprentissage%20par%20la%20pratique.pdf)
